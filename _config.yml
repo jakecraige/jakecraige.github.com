@@ -4,10 +4,10 @@
 
 url: http://jakecraige.github.io
 title: Jake Craige Dev Blog
-subtitle: A blogging framework for hackers.
+subtitle: A blogging framework for hackers? Well I'm not one of those..
 author: Jake Craige
 simple_search: http://google.com/search
-description:
+description: This is a site where I'm going to post interesting dev stuff I find and enjoy
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: jakecraige
 twitter_tweet_button: true
 
 # Google +1
