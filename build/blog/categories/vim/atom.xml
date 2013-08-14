@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: vim | Jake Craige Dev Blog]]></title>
+  <link href="http://jakecraige.github.io/blog/categories/vim/atom.xml" rel="self"/>
+  <link href="http://jakecraige.github.io/"/>
+  <updated>2013-08-14T18:32:46-05:00</updated>
+  <id>http://jakecraige.github.io/</id>
+  <author>
+    <name><![CDATA[Jake Craige]]></name>
+    <email><![CDATA[james.craige@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[So you've heard of Vim?]]></title>
+    <link href="http://jakecraige.github.io/blog/2013/08/14/so-youve-heard-of-vim/"/>
+    <updated>2013-08-14T18:00:00-05:00</updated>
+    <id>http://jakecraige.github.io/blog/2013/08/14/so-youve-heard-of-vim</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m sure the majority of developers out there have heard of Vim. I&rsquo;m also sure
+that most of you are frightened by it. <em>No offense</em>. I suppose you have good
+reasons for that.</p>
+
+<h3>Let&rsquo;s recreate the first time you encountered vim..</h3>
+
+<p>Surround your pullquote like this {" text to be quoted "}</p>
+
+<p>Don&rsquo;t worry, we'e all been there. I would venture to say no one likes Vim the
+first time they open it up.</p>
+
+<p><blockquote><p>Here is my current monster of a .vimrc</p><footer><strong>@jakecraige <a href="https://gist.github.com/jakecraige/6236660">https://gist.github.com/jakecraige/6236660</a></strong></footer></blockquote></p>
+
+<p>Yikes! That&rsquo;s pretty scary! I agree, when you first lay eyes on this it looks to
+be pretty wild. Though it&rsquo;s really not so bad when you start to
+look through it. It&rsquo;s only a collection of alias&rsquo;s for different commands
+to make life easier. While vim is powerful at it&rsquo;s basic level, adding in plugins
+and custom aliases is where it really starts to shine. <em>And hey, I&rsquo;ve organized
+it into folds for easy navigation.</em></p>
+
+<h2>My Vim Journey</h2>
+
+<p>Surround your pullquote like this {" text to be quoted "}</p>
+
+<h2>Now that I&rsquo;ve scared you a bit. Let&rsquo;s get to it!</h2>
+
+<p>First step, open up terminal and type in &lsquo;vimtutor&rsquo;.(minus the quotes). Run
+through that tutorial to get a basic understanding of how to move around the
+file and edit things. That alone will help you start to see some of it&rsquo;s power.
+I haven&rsquo;t used this site, but it seems very similar to vimtutor but a bit more
+interactive so you could give it a shot as well
+<a href="http://www.openvim.com/tutorial.html.">http://www.openvim.com/tutorial.html.</a></p>
+
+<p>After that it&rsquo;s time to start setting up a vimrc.</p>
+
+<p>Ugh. I&rsquo;ll continue this later. If anyone comes upon it before then, these helped
+me get started.</p>
+
+<ul>
+<li><a href="http://stevelosh.com/blog/2010/09/coming-home-to-vim/">http://stevelosh.com/blog/2010/09/coming-home-to-vim/</a></li>
+<li><a href="http://net.tutsplus.com/articles/general/top-10-pitfalls-when-switching-to-vim/">http://net.tutsplus.com/articles/general/top-10-pitfalls-when-switching-to-vim/</a></li>
+<li><a href="https://github.com/spf13/spf13-vim">https://github.com/spf13/spf13-vim</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
