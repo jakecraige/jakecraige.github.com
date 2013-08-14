@@ -4,7 +4,7 @@
   <title><![CDATA[Jake Craige Dev Blog]]></title>
   <link href="http://jakecraige.github.io/atom.xml" rel="self"/>
   <link href="http://jakecraige.github.io/"/>
-  <updated>2013-08-14T17:47:02-05:00</updated>
+  <updated>2013-08-14T18:29:14-05:00</updated>
   <id>http://jakecraige.github.io/</id>
   <author>
     <name><![CDATA[Jake Craige]]></name>
@@ -12,6 +12,92 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[So you've heard of Vim?]]></title>
+    <link href="http://jakecraige.github.io/blog/2013/08/14/so-youve-heard-of-vim/"/>
+    <updated>2013-08-14T18:00:00-05:00</updated>
+    <id>http://jakecraige.github.io/blog/2013/08/14/so-youve-heard-of-vim</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m sure the majority of developers out there have heard of Vim. I&rsquo;m also sure
+that most of you are frightened by it. <em>No offense</em>. I suppose you have good
+reasons for that.</p>
+
+<h3>Let&rsquo;s recreate the first time you encountered vim..</h3>
+
+<p><span class='pullquote-right' data-pullquote='&#8220;THIS EDITOR SUCKS&#8221; you say to yourself.'>
+You get access to your first remote box and locate the file you want to edit. So
+you google how to edit it and you discover this program valled &ldquo;Vim&rdquo;.
+Excited to use this new program you type in vim filename.ext and it opens up
+the file and you see the content. &ldquo;Yay!!&rdquo; you say to yourself. Then you attempt
+to use the mouse to go to where you want to edit and click.. &ldquo;Hmm.. it&rsquo;s not
+working..&rdquo; then you try to type in some letters to make sure you can at least do
+that. click click click.. &ldquo;That&rsquo;s not working either! what is wrong with this
+program!!&rdquo;. Shortly after this frustration you realize that you can use the
+arrow keys to move around and after a quick google you can insert text after
+clicking &lsquo;i&rsquo;. At this point you can move around and edit files but you&rsquo;re having
+a terrible time. &ldquo;THIS EDITOR SUCKS&rdquo; you say to yourself.
+</span></p>
+
+<p>Don&rsquo;t worry, we&#8217;e all been there. I would venture to say no one likes Vim the
+first time they open it up.</p>
+
+<blockquote><p>Here is my current monster of a .vimrc</p><footer><strong>@jakecraige</strong> <cite><a href='https://gist.github.com/jakecraige/6236660'>gist.github.com/jakecraige/&hellip;</a></cite></footer></blockquote>
+
+
+<p>Yikes! That&rsquo;s pretty scary! I agree, when you first lay eyes on this it looks to
+be pretty wild. Though it&rsquo;s really not so bad when you start to
+look through it. It&rsquo;s only a collection of alias&rsquo;s for different commands
+to make life easier. While vim is powerful at it&rsquo;s basic level, adding in plugins
+and custom aliases is where it really starts to shine. <em>And hey, I&rsquo;ve organized
+it into folds for easy navigation.</em></p>
+
+<h2>My Vim Journey</h2>
+
+<p><span class='pullquote-right' data-pullquote='Slowly but surely I continued to improve until
+I didn&#8217;t really want to use Sublime Text anymore. I actually had more typos in
+it from hitting my Vim binds in it.'>
+I had messed around with Vim a few times throughout the years and always
+switched back to using a modern text editor like Sublime Text 2. It just seemed
+easier, and yeah, it was, but that doesn&rsquo;t mean it was the best solution for me.
+About 3 or 4 months ago I read lots of articles and setup a vimrc and began to
+actively using vim as my primary text editor. At work I still used Sublime Text
+2 so as to not slow me down, and at home I would use Vim and continued to get
+better. After a few weeks I felt pretty confident in using it and set it up on
+the computer at work as well. Slowly but surely I continued to improve until
+I didn&rsquo;t really want to use Sublime Text anymore. I actually had more typos in
+it from hitting my Vim binds in it. It starts to become muscle memory after
+awhile and you just can&rsquo;t stop. You just get that itch to hit &rsquo;ll the time!!
+(more on that later) I am constantly updating my vimrc with new things that
+would be helpful and have completely changed it multiple times throughout this
+experience. At first I was using spf13&rsquo;s vim setup and that was good for awhile
+but seemed to run slower than I wanted it to and included things I didn&rsquo;t want
+to use so I got rid of it. Now I have a complete custom vimrc (lots stolen from
+others) but one that I have put together so it works best for me. It takes time
+to get to learn to use Vim but I think it&rsquo;s worth it.
+</span></p>
+
+<h2>Now that I&rsquo;ve scared you a bit. Let&rsquo;s get to it!</h2>
+
+<p>First step, open up terminal and type in &lsquo;vimtutor&rsquo;.(minus the quotes). Run
+through that tutorial to get a basic understanding of how to move around the
+file and edit things. That alone will help you start to see some of it&rsquo;s power.
+I haven&rsquo;t used this site, but it seems very similar to vimtutor but a bit more
+interactive so you could give it a shot as well
+<a href="http://www.openvim.com/tutorial.html.">http://www.openvim.com/tutorial.html.</a></p>
+
+<p>After that it&rsquo;s time to start setting up a vimrc.</p>
+
+<p>Ugh. I&rsquo;ll continue this later. If anyone comes upon it before then, these helped
+me get started.</p>
+
+<ul>
+<li><a href="http://stevelosh.com/blog/2010/09/coming-home-to-vim/">http://stevelosh.com/blog/2010/09/coming-home-to-vim/</a></li>
+<li><a href="http://net.tutsplus.com/articles/general/top-10-pitfalls-when-switching-to-vim/">http://net.tutsplus.com/articles/general/top-10-pitfalls-when-switching-to-vim/</a></li>
+<li><a href="https://github.com/spf13/spf13-vim">https://github.com/spf13/spf13-vim</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New blog yay]]></title>
